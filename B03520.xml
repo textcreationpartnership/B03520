@@ -1,0 +1,131 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great news from the English fleet: or, The seamens apology for adhering to His Highness the Prince of Orange in defence of the Protestant religion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03520</idno>
+            <idno type="STC">Wing G1735</idno>
+            <idno type="STC">ESTC R225424</idno>
+            <idno type="EEBO-CITATION">49520902</idno>
+            <idno type="OCLC">ocm 49520902</idno>
+            <idno type="VID">174143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174143)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2667:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great news from the English fleet: or, The seamens apology for adhering to His Highness the Prince of Orange in defence of the Protestant religion.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.P.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Christ Church (University of Oxford). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174143:1" rendition="simple:additions"/>
+            <head>Great News from the English FLEET: OR, THE Seamens Apology For Adhering to His Highneſs the Prince of <hi>Orange</hi> in Defence of the Proteſtant Religion.</head>
+            <opener>
+               <salute>Dear Countrymen,</salute>
+            </opener>
+            <p>ALthough thro' Cuſtom, and want of better Converſation, our <hi>Natures</hi> may have been ſo far <hi>Corrupted</hi> and <hi>Deprav'd,</hi> as to degenerate into a Sympathy with the <hi>unruly Element</hi> where<g ref="char:EOLhyphen"/>in we Live; yet, ſince <hi>God</hi> has, in repeated Examples, ſignified his <hi>Mercy</hi> and <hi>Providence</hi> to all his <hi>Works,</hi> we who bear an equal <hi>ſtamp</hi> of Himſelf and his Goodneſs, cannot be altogether Inſenſible of the <hi>Benefits</hi> we have at <hi>this Time,</hi> more eſpecially, received from Him; for, tho' the better part of Us (we may ſay, the generality) were, in our Hearts, reſolv'd to <hi>ſtand,</hi> and <hi>Dye,</hi> in the Defence of our Holy E<g ref="char:EOLhyphen"/>ſtabliſh'd <hi>Religion,</hi> yet the ſecret <hi>Contrivances</hi> (bearing, notwithſtand<g ref="char:EOLhyphen"/>ing, the publick Mark of an <hi>Ill-grounded Authority</hi>) of our <hi>Enemies,</hi> either to <hi>Supplant</hi> or <hi>Diſplace</hi> the beſt and chiefeſt of our <hi>Commanders,</hi> and, by degrees, the <hi>reſt,</hi> had given ſo material a <hi>ſhock</hi> to our <hi>Hopes</hi> and <hi>Reſolutions,</hi> that, till the <hi>Happy News</hi> of your <hi>Wiſe</hi> and <hi>Couragi<g ref="char:EOLhyphen"/>ous</hi> management of <hi>Affairs</hi> at <hi>Land</hi> Arriv'd, we began grievouſly to fear, and, in a little time, ſhould have had reaſon enough to deſpair of any Succeſs agreeable to our Deſires and Expectations. We do therefore firſt render our Thanks to Almighty <hi>God,</hi> who has ſav'd us out of the Jaws of our <hi>Ravenous Enemies;</hi> and next to <hi>You,</hi> for not only Your Faith and Loyalty to Your <hi>Country,</hi> Your <hi>Laws,</hi> and Your <hi>Religion,</hi> but for the good <hi>Example</hi> You have ſhown us, whereby You have encouraged and ſtrengthened our Hands againſt the worſt, the Malice of our <hi>Common Enemies</hi> can ſuggeſt or do. And, to ſhow You our Zeal to the <hi>Common Cauſe,</hi> we give You to underſtand, our <hi>Noble Commanders</hi> and our <hi>Selves,</hi> have not been wanting in our <hi>Endeavours</hi> to purge the <hi>Navy,</hi> as You have the <hi>Army,</hi> of all <hi>Papiſts,</hi> or others diſ<g ref="char:EOLhyphen"/>affected to the Well-eſtabliſh'd <hi>Government</hi> and <hi>Church of England:</hi> Beſide, our Care not only to Guard and Defend our Coaſts from the expected <hi>Invaſions</hi> and <hi>Injuries</hi> of our <hi>Enemies</hi> abroad, but alſo to hin<g ref="char:EOLhyphen"/>der the Eſcape and Flight of thoſe <hi>Villains</hi> and <hi>Traytors</hi> who have been as far as in them lay, the <hi>Betrayers</hi> of their <hi>Country,</hi> and our <hi>Lives</hi> and <hi>Fortunes</hi> to the malicious Deſigns of our Irreconcilable Enemies.</p>
+            <p>Let us therefore Congratulate the happy Sympathy of our Hearts, and conclude it the peculiar <hi>Providence</hi> of <hi>God</hi> that has ſo univerſally Inſpir'd and united the Souls and Hearts of the People of this Kingdom in the Defence of our <hi>Holy Religion.</hi> Let us not be daunt<g ref="char:EOLhyphen"/>ed with the ill-grounded Reproaches of our Enemies, who endeavor firſt to Divide us, that they may the more eaſily Deſtroy us. We cannot be Ignorant of the extent of our Duty to our King, ſince we ſhow our ſelves ſo well-grounded in the knowledge of our Duty to <hi>God;</hi> for ſince that is wholly dependant on this, it is manifeſt we are obliged in Conſcience and Nature to proſſer the Service of our <hi>Heavenly Father,</hi> before that of an <hi>Earthly Maſter.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. P.</hi> 1688.</p>
+            <pb facs="tcp:174143:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
